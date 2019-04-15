@@ -1,50 +1,22 @@
- [
-  {
-    id: 1,
-    question : "Za stan higieny osobistej oraz umundurowania żołnierzu odpowiada:",
-    answers : [
+{
+  "employees": [
     {
-      id: 1,
-      text : "bezpośredni przełożony",
-      value : true,
-      checked: false
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
     },
     {
-      id: 2,
-      text : "indywidualnie każdy żołnierz",
-      value : false,
-      checked: false
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
     },
     {
-      id: 3,
-      text : "dowódca pododdziału",
-      value : false,
-      checked: false
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
     }
-    ],
-  },
-  {
-    id: 2,
-    question : "Obsługiwanie w czasie przechowywania to:",
-    answers : [
-    {
-      id: 1,
-      text : "przed magazynowaniem, obsługiwanie OO-1 i OO-2, obsługiwanie bieżące",
-      value : false,
-      checked: false
-    },
-    {
-      id: 2,
-      text : "przed magazynowaniem, w czasie magazynowania, po magazynowaniu",
-      value : false,
-      checked: false
-    },
-    {
-      id: 3,
-      text : "obsługiwanie OO-1 i OO-2",
-      value : true,
-      checked: false
-    }
-    ],
-  },
-];
+  ]
+}
