@@ -1,48 +1,24 @@
 {
-    id: 1,
-    question : "Za stan higieny osobistej oraz umundurowania żołnierzu odpowiada:",
-    answers : [
+    "id": 1,
+    "question" : "Za stan higieny osobistej oraz umundurowania żołnierzu odpowiada:",
+    "answers" : [
     {
-      id: 1,
-      text : "bezpośredni przełożony",
-      value : true,
-      checked: false
+      "id": 1,
+      "text" : "bezpośredni przełożony",
+      "value" : true,
+      "checked": false
     },
     {
-      id: 2,
-      text : "indywidualnie każdy żołnierz",
-      value : false,
-      checked: false
+      "id": 2,
+      "text" : "indywidualnie każdy żołnierz",
+      "value" : false,
+      "checked": false
     },
     {
-      id: 3,
-      text : "dowódca pododdziału",
-      value : false,
-      checked: false
+      "id": 3,
+      "text" : "dowódca pododdziału",
+      "value" : false,
+      "checked": false
     }
     ],
-  },
-  {
-    id: 2,
-    question : "Obsługiwanie w czasie przechowywania to:",
-    answers : [
-    {
-      id: 1,
-      text : "przed magazynowaniem, obsługiwanie OO-1 i OO-2, obsługiwanie bieżące",
-      value : false,
-      checked: false
-    },
-    {
-      id: 2,
-      text : "przed magazynowaniem, w czasie magazynowania, po magazynowaniu",
-      value : false,
-      checked: false
-    },
-    {
-      id: 3,
-      text : "obsługiwanie OO-1 i OO-2",
-      value : true,
-      checked: false
-    }
-    ],
-  },
+  }
