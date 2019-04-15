@@ -1,4 +1,4 @@
-export const questionData = [
+ [
   {
     id: 1,
     question : "Za stan higieny osobistej oraz umundurowania żołnierzu odpowiada:",
