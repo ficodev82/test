@@ -1,24 +1,31 @@
 {
-    "id": 1,
-    "question" : "Za stan higieny osobistej oraz umundurowania żołnierzu odpowiada:",
-    "answers" : [
+  "posts": [
     {
       "id": 1,
-      "text" : "bezpośredni przełożony",
-      "value" : true,
-      "checked": false
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "text" : "indywidualnie każdy żołnierz",
-      "value" : false,
-      "checked": false
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "text" : "dowódca pododdziału",
-      "value" : false,
-      "checked": false
+      "title": "Post 3"
     }
-    ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
